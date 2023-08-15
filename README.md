@@ -98,6 +98,22 @@ call Print("Hello, world!");
 ### 9.new实例化<br />
 实例名 = new 类名();<br />
 虽然目前没有做好类的有参构造函数的功能，但调用仍需写上一对小括号
+### 10.数据类型转换<br />
+未制作完毕，目前仅支持基本类型转换，当类类型转换时，会直接触发异常并报错<br />
+
+## 内置全局函数一览<br />
+def Write(text)<br />
+无返回值；控制台中打印text文本并换行<br /><br />
+def Read(text)<br />
+返回读取到的字符串数据；控制台中打印text<br /><br />
+def Pause()<br />
+无返回值；暂停程序的运行，直到用户按下任意键<br /><br />
+def QueryPerformanceCounter()<br />
+返回整型数据；查询性能计数器中的计数，并返回<br /><br />
+def QueryPerformanceFrequency()<br />
+返回整形数据；查询性能频率，并返回<br /><br />
+def TickCount()<br />
+返回整形数据；获取系统环境的Tick计数，并返回<br /><br />
 
 ## 使用介绍
 ### 编写自己的代码<br />
