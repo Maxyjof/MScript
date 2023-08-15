@@ -1,2 +1,2 @@
-# MScript
-a trash script language for study
+# M Script
+a trash script language for self study
