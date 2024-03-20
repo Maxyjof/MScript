@@ -93,7 +93,7 @@ load System;
 内置全局函数必须通过call语句进行调用<br />
 示例：
 ```
-call Print("Hello, world!");
+call Write("Hello, world!");
 ```
 ### 9.new实例化<br />
 实例名 = new 类名();<br />
