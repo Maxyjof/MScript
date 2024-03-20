@@ -1,5 +1,5 @@
 # M 脚本语言
-一个用于学习用途的垃圾脚本语言<br />
+一个用于学习用途的垃圾脚本语言  Fucking trash language. Dont use it!!!<br />
 <br />
 ## 语言介绍<br />
 这是一个直接遍历AST并递归解释运行的解释型脚本语言<br />
